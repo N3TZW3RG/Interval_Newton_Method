@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/366747718.svg)](https://zenodo.org/badge/latestdoi/366747718)
 
-# IsabelleIntervalNewtonMethod
+# Interval Newton Method in Isabelle/HOL
 
 Formalisation of the Inteval Newton Method using the proof assistant [Isabelle/HOL](https://isabelle.in.tum.de/) as part of a bachelor's thesis in computer science at TUM (Technische Universität München).
 
