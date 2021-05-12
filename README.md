@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/366747718.svg)](https://zenodo.org/badge/latestdoi/366747718)
+
 # IsabelleIntervalNewtonMethod
 
 Formalisation of the Inteval Newton Method in generic proof assistant [Isabelle/HOL](https://isabelle.in.tum.de/) as part of a bachelor's thesis in computer science at TUM (Technische Universität München).
