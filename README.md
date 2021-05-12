@@ -2,7 +2,7 @@
 
 # IsabelleIntervalNewtonMethod
 
-Formalisation of the Inteval Newton Method in the proof assistant [Isabelle/HOL](https://isabelle.in.tum.de/) as part of a bachelor's thesis in computer science at TUM (Technische Universität München).
+Formalisation of the Inteval Newton Method using the proof assistant [Isabelle/HOL](https://isabelle.in.tum.de/) as part of a bachelor's thesis in computer science at TUM (Technische Universität München).
 
 Advisor: Dr. Manuel Eberl\
 Supervisor: Prof. Tobias Nipkow\
