@@ -1,0 +1,3 @@
+# temporary Isabelle files
+*.thy~
+*.thy#
