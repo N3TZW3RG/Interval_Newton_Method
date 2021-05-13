@@ -1,9 +1,10 @@
 theory Executable
-  imports Newton
+  imports Interval_Newton_Method
 
 begin
 
 section "Lemmas to Enable Evaluation"
+
 subsection "Code Lemmas"
 
 lemmas newton_floatarith_simp_rules [code] = newton_floatarith.simps
@@ -135,7 +136,7 @@ definition ivl_d where "ivl_d = Interval'' (-10, 10)"
 
 subsection "Basic Cases"
 
-subsubsection "Polynomials"
+subsubsection "Factorised Polynomials"
 
 definition  f_1  where  "f_1  = pos 0"
 definition  f_2  where  "f_2  = pos 1"
